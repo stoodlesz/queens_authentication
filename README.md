@@ -100,7 +100,11 @@ If you check out the `Screenshots` folder you will see a screenshot of the datab
 ## References
 
 In this project these were the main contributors of ideas and structure:
+
 https://www.section.io/engineering-education/user-login-web-system/
+
 https://flask-login.readthedocs.io/en/latest/#installation
+
 https://www.digitalocean.com/community/tutorials/how-to-add-authentication-to-your-app-with-flask-login
+
 
