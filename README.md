@@ -95,3 +95,4 @@ Following this, to run the program, enter the following:
 ## Supporting Documents
 
 Please watch the video called `WatchMe.mp4` to see a video demo of this application working.
+If you check out the `Screenshots` folder you will see a screenshot of the database with the users that have been set up, with their info encrypted.
