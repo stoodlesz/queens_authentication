@@ -2,6 +2,10 @@
 
 A login application designed with security in mind. Demonstrating SHA-2 cryptographic hash functions and input validation, which can be used when preventing XSS, SQL Injection and other attacks, along with other security methods.
 
+## First Step
+
+Download the .zip file!
+
 ## Imported Libraries
 
 In `auth.py`
