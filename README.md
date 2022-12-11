@@ -96,3 +96,11 @@ Following this, to run the program, enter the following:
 
 Please watch the video called `WatchMe.mp4` to see a video demo of this application working.
 If you check out the `Screenshots` folder you will see a screenshot of the database with the users that have been set up, with their info encrypted.
+
+## References
+
+In this project these were the main contributors of ideas and structure:
+https://www.section.io/engineering-education/user-login-web-system/
+https://flask-login.readthedocs.io/en/latest/#installation
+https://www.digitalocean.com/community/tutorials/how-to-add-authentication-to-your-app-with-flask-login
+
