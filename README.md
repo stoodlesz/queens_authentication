@@ -87,3 +87,7 @@ Following this, to run the program, enter the following:
 - cd into project directory
 - Run sqlite3 application.db and it will open the sqlite terminal
 - Run select \* from user;
+
+## Supporting Documents
+
+Please watch the video called `WatchMe.mp4` to see a video demo of this application working.
