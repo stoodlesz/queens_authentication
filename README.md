@@ -101,10 +101,11 @@ If you check out the `Screenshots` folder you will see a screenshot of the datab
 
 In this project these were the main contributors of ideas and structure:
 
-https://www.section.io/engineering-education/user-login-web-system/
+Manley, G. (2020). How to Create a User Login Web System in Python. [online] Engineering Education (EngEd) Program | Section. Available at: https://www.section.io/engineering-education/user-login-web-system [Accessed 12 Dec. 2022].
 
-https://flask-login.readthedocs.io/en/latest/#installation
+Flask-Login (n.d.). Flask-Login — Flask-Login 0.7.0 documentation. [online] flask-login.readthedocs.io. Available at: https://flask-login.readthedocs.io/en/latest/#installation [Accessed 12 Dec. 2022].
 
-https://www.digitalocean.com/community/tutorials/how-to-add-authentication-to-your-app-with-flask-login
+Herbert, A. (2019). How to Add Authentication to Your App with Flask-Login. [online] DigitalOcean. Available at: https://www.digitalocean.com/community/tutorials/how-to-add-authentication-to-your-app-with-flask-login.
 
-https://www.youtube.com/watch?v=RHu3mQodroM
+edureka! (2020). Python Login System Part - 1 | How to create Simple Login Form in Python | Python Training | Edureka. [online] YouTube. Available at: https://www.youtube.com/watch?v=RHu3mQodroM [Accessed 12 Dec. 2022].
+
